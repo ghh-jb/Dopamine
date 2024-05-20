@@ -7,10 +7,9 @@ Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (
 Official website / download: https://ellekit.space/dopamine/
 
 
-
-******======*****
-******BUILD******
-******======*****
+#############
+====BUILD====
+#############
 
 
 - [#] In terminal: "cd /path/to/Dopamine"
