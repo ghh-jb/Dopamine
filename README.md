@@ -11,6 +11,7 @@ Official website / download: https://ellekit.space/dopamine/
 ====BUILD====
 #############
 
+- [!] THEOS MUST BE INSTALLED!!!
 
 - [#] In terminal: "cd /path/to/Dopamine"
 - [#] In terminal: "git submodule init"
