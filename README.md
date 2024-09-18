@@ -15,7 +15,7 @@ Official website / download: https://ellekit.space/dopamine/
 
 - [#] In terminal: "cd /path/to/Dopamine"
 - [#] In terminal: "git submodule init"
-- [#] In terminal: "git submodule sync" and wait for process to finish
+- [#] In terminal: "git submodule update" and wait for process to finish
 - [## ########]
 - [#] MAKE SURE TO HAVE Xcode 15! This is VERY important!
 - [## ########]
