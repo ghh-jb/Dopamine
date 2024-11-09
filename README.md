@@ -17,7 +17,7 @@ Official website / download: https://ellekit.space/dopamine/
 - [#] In terminal: "git submodule init"
 - [#] In terminal: "git submodule update" and wait for process to finish
 - [## ########]
-- [#] MAKE SURE TO HAVE Xcode 15! This is VERY important!
+- [#] MAKE SURE TO HAVE Xcode 14-15! This is VERY important!
 - [## ########]
 - [#] In terminal: "cd ./BaseBin"
 - [#] In terminal: "make" and wait for process to finish
